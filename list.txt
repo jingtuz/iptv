@@ -129,9 +129,10 @@ ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 亚洲剧台,p2p://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 粤语片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
 台湾,#genre#
-民视新闻台(YT),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-三立iNews(YT),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-
+民视新闻台(YT),https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+三立iNews(YT),https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+TVBS新闻台(YT),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+中天新闻(YT),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 AMC,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 Animax,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
 BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
