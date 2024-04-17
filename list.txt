@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视,#genre#
 CCTV1,http://www.8700956.top:18888/udp/239.81.0.102:4056
 CCTV2,http://www.8700956.top:18888/udp/239.81.0.115:4056
 CCTV3,http://www.8700956.top:18888/udp/239.81.0.231:4056
@@ -46,7 +46,7 @@ CETV1,http://www.8700956.top:18888/udp/239.81.0.52:4056
 CETV2,http://www.8700956.top:18888/udp/239.81.0.245:4056
 CETV3,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.55:4120
 CETV4,http://www.8700956.top:18888/udp/239.81.0.246:4056
-卫视频道,#genre#
+卫视,#genre#
 北京卫视,http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 天津卫视,http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 河北卫视,http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
@@ -88,7 +88,7 @@ CETV4,http://www.8700956.top:18888/udp/239.81.0.246:4056
 安多卫视,http://175.146.120.43:8888/rtp/232.0.0.105:1234
 兵团卫视,http://175.146.120.43:8888/rtp/232.0.0.67:1234
 大湾区卫视,http://113.74.204.239:4022/udp/239.77.0.215:5146
-港澳频道,#genre#
+港澳,#genre#
 18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 Channel V,https://epg.pw/stream/38a967322df96f5d1a525b105f0a760533fa6220861bbcd7bd50a37ca2002b50.ctv
 Hands Up,p2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
@@ -128,7 +128,7 @@ ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 星空卫视,http://222.212.65.209:8686/udp/239.93.0.156:2193
 亚洲剧台,p2p://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 粤语片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
-台湾频道,#genre#
+台湾,#genre#
 AMC,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 Animax,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
 BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
