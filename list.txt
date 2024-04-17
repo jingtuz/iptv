@@ -1,4 +1,3 @@
-卫视频道,#genre#
 北京卫视,http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 天津卫视,http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 河北卫视,http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
@@ -79,7 +78,6 @@ ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 星空卫视,http://222.212.65.209:8686/udp/239.93.0.156:2193
 亚洲剧台,p2p://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 粤语片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
-台湾频道,#genre#
 AMC,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
 Animax,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
 BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
@@ -204,7 +202,6 @@ Z频道,mitv://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 中视新闻台,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中天娱乐台,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
-央视频道,#genre#
 CCTV1,http://www.8700956.top:18888/udp/239.81.0.102:4056
 CCTV2,http://www.8700956.top:18888/udp/239.81.0.115:4056
 CCTV3,http://www.8700956.top:18888/udp/239.81.0.231:4056
