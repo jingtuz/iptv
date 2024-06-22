@@ -1,0 +1,53 @@
+{
+	"lives": [{
+			"name": "大陆节目",
+			"url": "https://pastebin.com/raw/6SXBgzBp",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+{
+			"name": "港台新闻VPN",
+			"url": "https://pastebin.com/raw/wFAuXSqk",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+{
+			"name": "D佬魔改",
+			"url": "http://rihou.cc:555/gggg.nzk",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+{
+			"name": "天天开心",
+			"url": "https://gh.con.sh/https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+{
+			"name": "SmartTV",
+			"url": "https://pastebin.com/raw/jxX4cjD8",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+{
+			"name": "安博源",
+			"url": "https://pastebin.com/raw/7q4Urqqj",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+{
+			"name": "港台新闻",
+			"url": "https://pastebin.com/raw/Qt9z2zMv",
+       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},{
+			"name": "虎牙直播",
+			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"
+		},
+		{
+			"name": "斗鱼直播",
+			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"
+		}
+		
+	]
+}
