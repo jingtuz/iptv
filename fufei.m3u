@@ -1,64 +1,42 @@
-FRANCE CINEMA,#genre#
-CANAL+ SD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/32155.ts
-|FR.RP| CANAL+ HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9324.ts
-CANAL+ FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9579.ts
-CANAL+ FHD H265,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/51165.ts
-CANAL+ CINEMA,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9332.ts
-|FR.RP| CANAL+ CINEMA HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15195.ts
-CANAL+ CINEMA FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9582.ts
-CANAL+ BOX OFFICE HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/278399.ts
-CANAL+ BOX OFFICE FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/278398.ts
-|FR.RP| CANAL GRAND ECRAN HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/131807.ts
-|FR.RP| CANAL FAMILY HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15193.ts
-CANAL FAMILY FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9580.ts
-CANAL+ SERIE,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9328.ts
-|FR.RP| CANAL SERIE HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15192.ts
-CANAL SERIE FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9578.ts
-ALTICE STUDIO,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/40882.ts
-ALTICE STUDIO HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/40881.ts
-ALTICE STUDIO FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/40880.ts
-OCS CHOC,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9247.ts
-OCS CHOC HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15140.ts
-OCS CHOC FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9518.ts
-OCS CITY,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9246.ts
-OCS CITY HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15223.ts
-OCS CITY FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9517.ts
-OCS GEANT,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9245.ts
-|FR.RP| OCS GEANTS HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15139.ts
-OCS GEANTS FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9516.ts
-OCS MAX,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9244.ts
-OCS MAX HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15222.ts
-OCS MAX FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9515.ts
-OCS PULP HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/271879.ts
-OCS PULP FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/271880.ts
-CINE CLASSIC,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9311.ts
-|FR.RP| CINE CLASSIC HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15187.ts
-CINE CLASSIC FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9570.ts
-CINE EMOTION,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9309.ts
-|FR.RP| CINE EMOTION HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15186.ts
-CINE EMOTION FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9568.ts
-CINE FAMIZ,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9307.ts
-CINE FAMIZ HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9306.ts
-CINE FAMIZ FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9567.ts
-CINE FRISSON,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9304.ts
-|FR.RP| CINE FRISSON HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15185.ts
-CINE FRISSON FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9303.ts
-POLAR + HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9564.ts
-CINE PREMIER,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9300.ts
-|FR.RP| CINE PREMIER HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15230.ts
-CINE PREMIER FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9571.ts
-ACTION,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9356.ts
-|FR.RP| ACTION HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15214.ts
-ACTION FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9592.ts
-TMC,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9194.ts
-TMC FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15119.ts
-TMC+1 HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9494.ts
-TCM CINEMA,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/59874.ts
-TCM CINEMA HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/126952.ts
-TCM CINEMA FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9195.ts
-PARAMOUNT CHANNEL,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9240.ts
-|FR.RP| PARAMOUNT CHANNEL HD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15138.ts
-PARAMOUNT CHANNEL FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/9514.ts
-CINE CLASSIC FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/50886.ts
-CINE CLUB FHD,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/50883.ts
-CANAL+ SERIES FHD HEVC,http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/51162.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/39203.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT HD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/15191.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusSport.fr.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT FHD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/51166.ts
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT",|FR| CANAL+ FOOT
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/136367.ts
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR.RP| CANAL+ FOOT HD" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT",|FR.RP| CANAL+ FOOT HD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/136368.ts
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ FOOT FHD" tvg-logo="https://assets-fr.imgfoot.com/canal-plus-foot.png" group-title="FRANCE SPORT",|FR| CANAL+ FOOT FHD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/136369.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT 360
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/136372.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR.RP| CANAL+ SPORT 360 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/C%2B_Sport_360.png" group-title="FRANCE SPORT",|FR.RP| CANAL+ SPORT 360 HD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/136371.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="|FR| CANAL+ SPORT 360 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE SPORT",|FR| CANAL+ SPORT 360 FHD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/136370.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="FRANCE SPORT",|FR| DAZN 1 SD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/303273.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="FRANCE SPORT",|FR| DAZN 1 HD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/277603.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN PPV FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="FRANCE SPORT",|FR| DAZN PPV FULL HD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/277604.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT",|FR| DAZN LIGUE 1 LIVE 1 SD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/108558.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT",|FR| DAZN LIGUE 1 LIVE 1 HD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/108559.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT",|FR| DAZN LIGUE 1 LIVE 1 FHD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/108560.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT",|FR| DAZN LIGUE 1 LIVE 2 SD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/124486.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT",|FR| DAZN LIGUE 1 LIVE 2 HD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/124485.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT",|FR| DAZN LIGUE 1 LIVE 2 FHD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/124484.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT",|FR| DAZN LIGUE 1 LIVE 3 SD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/124489.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN LIGUE 1 LIVE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="FRANCE SPORT",|FR| DAZN LIGUE 1 LIVE 3 HD
+http://tv.pure-onetv.com:25443/live/wawa100049/B1C7GBFF1F/124488.ts
+
