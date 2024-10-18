@@ -1,0 +1,159 @@
+4K UHD 3840P,#genre#
+4k| TF1 HDR/UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640379
+4k| TF1 UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640384
+4k| FRANCE 2 HDR/UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640378
+4k| FRANCE 2 UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640381
+4k| FRANCE 3 UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640382
+4k| M6 UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640383
+4k| CANAL+ HDR/UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640387
+4k| CANAL+ EVENEMENT UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640388
+4k| CANAL+ BOX OFFICE UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640380
+4k| EVENEMENT SPORT HDR/UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640385
+4k| LOUPE ART UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640386
+4K| SKY SPORTS MAIN EVENTS UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1608071
+4K| SKY SPORTS 1 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1608068
+4K| SKY SPORTS 2 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1608069
+4K| BEIN SPORTS AR [EVENT],http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1500113
+4K| TNT ULTIMATE 4K+ [LIVE-EVENT],http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1595637
+4K| ZIGGO SPORT UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1481950
+4K| ESPN UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1481941
+4K| BLOOMBERG UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1470604
+4K| CNN UHD 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1470653
+4K| LOVE NATURE UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471386
+4K| SPORTSNET 360 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1470603
+4K| TNT SPORTS UHD [EVENT],http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1479591
+4K| ASTRO SUPERSPORT UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1479590
+4K| SKY SPORTS F1 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471382
+4K| ZEE TV UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471380
+4K| CANAL+ UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491210
+4K| UHD 1 BY ASTRA,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491209
+4K| QVC ZWEI UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491208
+4K| QVC UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491207
+4K| FOX REGIONAL UHD (EVENT ONLY),http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491206
+4K| FOX UHD (EVENT ONLY),http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491205
+4K| HUB PREMIER 2 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1470619
+4K| NOW SPORTS (EPL) UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1470622
+4K| SPORT TV PT UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471378
+4K| SKY SPORTS UHD [EVENT],http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471387
+4K| COCINA UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471385
+4K| DAZN LA LIGA TV UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471376
+4K| LA 1 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1620282
+4K| DECASA UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471384
+4K| LIGA CAMPEONES UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471377
+4K| ODISEA UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1471383
+4K| MUSEUM UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1632124
+4K| V SPORT+ UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1632123
+4K| 5SPORT UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1470620
+4K| ELEVEN SPORTS 1 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1470618
+4K| SKY PRIMAFILA 1 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491180
+4K| SKY PRIMAFILA 2 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491181
+4K| SKY PRIMAFILA 3 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491183
+4K| SKY PRIMAFILA 4 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491184
+4K| SKY PRIMAFILA 5 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491185
+4K| SKY PRIMAFILA 6 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491186
+4K| SKY PRIMAFILA 7 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491187
+4K| SKY PRIMAFILA 8 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491188
+4K| SKY PRIMAFILA 9 UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1491189
+4K| DIGI UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1632122
+SP| CANAL+ 4K+/UHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1380013
+4k| NESN UHD/4K+,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1124351
+4K RELAX UHD 3840P,#genre#
+###### RELAX ᵁᴴᴰ 3840P ######,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505577
+4K| RELAX MOROCCO ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503006
+4K| RELAX TURKEY ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502984
+4K| RELAX NORWAY ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503008
+4K| RELAX ICELAND ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503007
+4K| RELAX TROPICAL BEACH ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502990
+4K| RELAX THE OCEAN ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502989
+4K| RELAX INSPIRATIONAL MOTIVATIONAL ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502988
+4K| RELAX FOREST ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502987
+4K| RELAX EARTH NATURE ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502986
+4K| RELAX AUSTRALIA ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502985
+4K| RELAX 1 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502991
+4K| RELAX 2 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502992
+4K| RELAX 3 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502993
+4K| RELAX 4 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502994
+4K| RELAX 5 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502995
+4K| RELAX 6 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502996
+4K| RELAX 7 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502997
+4K| RELAX 8 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502998
+4K| RELAX 9 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1502999
+4K| RELAX 10 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503000
+4K| RELAX 11 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503001
+4K| RELAX 12 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503002
+4K| RELAX 13 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503003
+4K| RELAX 14 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503004
+4K| RELAX 15 ᵁᴴᴰ 3840P,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1503005
+4K RELAX 1920P,#genre#
+###### RELAX 4K ######,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505556
+4K| RELAX MOROCCO 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505557
+4K| RELAX TURKEY 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505563
+4K| RELAX ICELAND 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505558
+4K| RELAX TROPICAL BEACH 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505576
+4K| RELAX THE OCEAN 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505575
+4K| RELAX STARDUST 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505574
+4K| RELAX SNOW WINTER 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505573
+4K| RELAX FOREST 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505572
+4K| RELAX FLOWER 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505571
+4K| RELAX EARTH NATURE 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505570
+4K| RELAX NATURE RELAXATION 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505569
+4K| RELAX MORNING RELAXING 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505568
+4K| RELAX INSPIRATIONAL MOTIVATIONAL 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505567
+4K| RELAX EUROPE TOWNS 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505566
+4K| RELAX FOREST AMERICAN 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505565
+4K| RELAX VIETNAM 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505564
+4K| RELAX SWITZERLAND 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505562
+4K| RELAX ITALY 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505561
+4K| RELAX AUSTRALIA 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505560
+4K| RELAX NORWAY 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1505559
+FR| FRANCE 4K,#genre#
+##### FRANCE 4K #####,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/813294
+FR| TF1 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526153
+FR| FRANCE 2 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526152
+FR| FRANCE 3 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526151
+FR| FRANCE 4 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526150
+FR| FRANCE 5 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526149
+FR| M6 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526148
+FR| ARTE 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526147
+FR| W9 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526146
+FR| C8 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526145
+FR| TF1 SERIES 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526143
+FR| 6TER 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526144
+FR| TFX 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526142
+FR| SYFY 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526141
+FR| ACTION 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526140
+FR| 13 EMERUE 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526139
+FR| TEVA 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526138
+FR| RTL 9 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526137
+FR| CANAL+ 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526135
+FR| CANAL+ CINEMA 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526134
+FR| CANAL+ KIDS 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526132
+FR| CANAL+ SERIES 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526131
+FR| CANAL+ SPORT 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526130
+FR| CANAL+ PL 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526129
+FR| CANAL+ MOTOGP 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526128
+FR| CANAL+ LIGUE 1 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526127
+FR| BEIN SPORTS 1 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526126
+FR| BEIN SPORTS 2 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526125
+FR| BEIN SPORTS 3 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526124
+FR| RMC SPORT 1 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526123
+FR| RMC SPORT 2 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/526122
+FR| FRANCE FHD,#genre#
+##### GENERAL FHD #####,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/813293
+FR| TF1 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506638
+FR| FRANCE 2 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506637
+FR| FRANCE 3 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506636
+FR| FRANCE 4 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506624
+FR| FRANCE 5 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506634
+FR| M6 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506633
+FR| ARTE FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506632
+FR| W9 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506629
+FR| NRJ 12 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506626
+FR| TFX FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506627
+FR| TF1 SÉRIES FILMS FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506620
+FR| 6TER FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506618
+FR| C8 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506630
+FR| TMC FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506628
+FR| CHÉRIE 25 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506615
+FR| MYSTÈRE FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1507794
+FR| TALK SPORT FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1507792
