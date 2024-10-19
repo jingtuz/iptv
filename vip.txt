@@ -66,6 +66,20 @@ US| FREE SPEECH TV,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1446561
 US| NESN HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45528
 ID| FRANCE24,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/683191
 
+UK NEWS,#genre#
+UK: VIP BBC NEWS,http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:55:CD:37&stream=111541&extension=ts&play_token=TyXbIVgmNU
+UK: VIP BBC WORLD NEWS,http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:55:CD:37&stream=1468854&extension=ts&play_token=BZMLkYosYR
+UK: VIP CNN,http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:55:CD:37&stream=459632&extension=ts&play_token=sec9aC0Oaz
+UK: VIP AL JAZEERA,http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:55:CD:37&stream=229460&extension=ts&play_token=1zesPdJvzK
+
+UK: VIP RTE NEWS NOW,http://vipgsiv.top:8080/VIP0192170801043953/c3448c66c871/1874
+UK: VIP EURONEWS,http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:55:CD:37&stream=459631&extension=ts&play_token=IcEooG9tt3
+
+UK: VIP RT NEWS,http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:55:CD:37&stream=149648&extension=ts&play_token=RSlYPxV6JO
+UK: FRANCE24,http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:55:CD:37&stream=149653&extension=ts&play_token=VPd16QNMdE
+UK: VIP SKY NEWS,http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:55:CD:37&stream=30504&extension=ts&play_token=RdadZdCeYp
+
+
 INFOS FHD,#genre#
 #### INFOS FHD #####,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/814575
 FR| LA CHAINE METEO FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506660
