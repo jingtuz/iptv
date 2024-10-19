@@ -1,3 +1,71 @@
+NEWS NETWORK,#genre#
+##### NEWS NETWORK #####,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1029666
+US| ABC NEWS,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45438
+US| AL JAZEERA ENGLISH,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45614
+US| BNC,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/864834
+US| BBC WORLD NEWS,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91766
+US| C-SPAN 1 HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91952
+US| C-SPAN 2 HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91953
+US| C-SPAN 3 HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1454385
+US| CBS HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45604
+US| CBS PHILADELPHIA,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45605
+US| CBS NEWS,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45603
+US| EURONEWS HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1424752
+US| NEWS 12 HUDSON VALLEY,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1536028
+US| KTLA LOS ANGELES HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/990397
+US| VEGAS34 (KMCC) LAS VEGAS,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1650948
+US| 7NEWS BOSTON (WHDH),http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1542476
+US| 69 NEWS (WFMZ) PHILADELPHIA,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/496646
+US| CHEDDAR BUSINESS HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91784
+US| CHEDDAR NEWS HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91783
+US| CNN FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/442785
+US| CNN HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45592
+US| CNBC HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45593
+US| CNBC WORLD HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91782
+US| CW ATLANTA HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/90948
+US| CW CHICAGO HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45589
+US| CW PHILADELPHIA HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/90947
+US| CW PITTSBURGH,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/90953
+US| CW SACRAMENTO HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/90952
+US| CW SAN FRANCISCO HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/90949
+US| CW SEATTLE HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/90950
+US| CW TAMPA BAY HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/90951
+US| FOX 29,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45576
+US| FOX BUSINESS NETWORK HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45575
+US| FOX HARTFORD (WTIC),http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/143001
+US| FOX HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/90959
+US| FOX KANSAS HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45574
+US| FOX NEWS HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45573
+US| BLOOMBERG HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91936
+US| BLOOMBERG QUICKTAKE,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1453860
+US| LIVENOW FROM FOX,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/730908
+US| MSNBC HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45535
+US| NBC LOS ANGELES,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45533
+US| NBC PHILADELPHIA HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45531
+US| NBC SN HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45530
+US| NEWSY,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/869509
+US| NECN HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45529
+US| NEWS 12 BROOKLYN,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45527
+US| NEWS 12 CONNECTICUT,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/142999
+US| NEWS 12 NEW JERSEY,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/613082
+US| NEWS 12 LONG ISLAND,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1002506
+US| NEWS 12 WESTCHESTER,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1050760
+US| NEWS 12 THE BRONX,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1126508
+US| NEWSMAX HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/150355
+US| NEWS Y HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91908
+US| NEWS NATION,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1345437
+US| ONE AMERICAN NEWS NETWORK HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/91942
+US| SPECTRUM NEWS 1 HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/150358
+US| SPECTRUM NEWS NY1,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/921724
+US| SPECTRUM BAY NEWS 9,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1141832
+US| SPECTRUM NEWS 13,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1143763
+US| CBS HARTFORD (WFSB),http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/143000
+US| AMERICA TV,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/790500
+US| MEGA TV,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/790501
+US| FREE SPEECH TV,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1446561
+US| NESN HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/45528
+ID| FRANCE24,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/683191
+
 INFOS FHD,#genre#
 #### INFOS FHD #####,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/814575
 FR| LA CHAINE METEO FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506660
