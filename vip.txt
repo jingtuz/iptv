@@ -1,3 +1,21 @@
+INFOS FHD,#genre#
+#### INFOS FHD #####,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/814575
+FR| LA CHAINE METEO FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506660
+FR| FRANCE INFO FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506613
+FR| CNEWS FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506622
+FR| TV5MONDE FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506567
+FR| LCI FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506614
+FR| LCP 100% FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506625
+FR| FRANCE 24 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506483
+FR| I24 NEWS FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506486
+FR| BFMTV FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506623
+FR| BFM BUSINESS FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506487
+FR| BFM PARIS FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506489
+FR| BFM LYON MÉTROPOLE FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506488
+FR| BFM MARSEILLE FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1010106
+FR| RT FRANCE FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506481
+FR| PUBLIC SÉNAT FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506482
+
 4K UHD 3840P,#genre#
 4k| TF1 HDR/UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640379
 4k| TF1 UHD/4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1640384
@@ -157,3 +175,177 @@ FR| TMC FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506628
 FR| CHÉRIE 25 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/506615
 FR| MYSTÈRE FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1507794
 FR| TALK SPORT FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1507792
+
+RU MOVIES,#genre#
+RU| TV1000,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132749
+RU| TV1000 ACTION,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132750
+RU| TV1000 COMEDY HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132751
+RU| TV1000 MEGAHIT HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132752
+RU| TV1000 PREMIUM HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132753
+RU| TV1000 РУССКОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132754
+RU| VIASAT TV1000 RUSSKOEKINO,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132784
+RU| FX,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132490
+RU| KINEKO HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132491
+RU| FX LIFE,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132492
+RU| SERIAL,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132698
+RU| КОМЕДИЯ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132532
+RU| НАШЕ КРУТОЕ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132623
+RU| НАШЕ ЛЮБИМОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132624
+RU| НАШЕ НОВОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132608
+RU| НАШЕ РОДНОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132625
+RU| НАШЕ РОДНОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300891
+RU| RTVI НАШЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132680
+RU| ЛЮБИМОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132553
+RU| ДОМ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132454
+RU| ДОМ КИНО ПРЕМИУМ HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132457
+RU| ДОМ КИНО ПРЕМИУМ HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300751
+RU| DORAMA,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132458
+RU| ЕВРОКИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132482
+RU| СИНЕМА ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132438
+RU| КИНОХИТ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132540
+RU| КИНОКОМЕДИЯ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132539
+RU| КИНОКОМЕДИЯ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148926
+RU| КИНОМИКС,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132541
+RU| КИНОПОКАЗ 2 HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132543
+RU| КИНОПРЕМЬЕРА HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132529
+RU| КИНОСЕРИЯ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132530
+RU| КИНОСЕРИЯ HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300823
+RU| КИНОСВИДАНИЕ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132531
+RU| КИНО ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132528
+RU| КИНО ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300814
+RU| VIJU SERIAL FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148895
+RU| МУЖСКОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132604
+RU| ДОКУБОКС HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132453
+RU| ОСТРОСЮЖЕТНОЕ КИНО HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132638
+RU| ИНДИЙСКОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132521
+RU| РУССКАЯ КОМЕДИЯ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132692
+RU| РУССКИЙ ДЕТЕКТИВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132694
+RU| РУССКИЙ РОМАН,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132686
+RU| ФЕНИКС КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132495
+RU| ФЕНИКС КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300783
+RU| СТРАШНОЕ КИНО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132722
+RU| СТРАШНОЕ КИНО HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148936
+RU| КИНОУЖАС,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148925
+RU| МОРСКОЙ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132581
+RU| РУССКИЙ ИЛЛЮЗИОН,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132693
+RU| SET HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132699
+RU| ШОКИРУЮЩЕЕ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132718
+RU| SHOT TV,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132702
+RU| SONY CHANNEL,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132704
+RU| SONY SCI-FI,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132720
+RU| SONY TB,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132705
+RU| SONY TURBO,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132706
+RU| VIP COMEDY HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132785
+RU| VIP MEGAHIT HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132786
+RU| VIP PREMIERE,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132787
+RU| VIP SERIAL,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132788
+RU| МИР СЕРИАЛА,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300854
+RU| PARAMOUNT COMEDY,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132640
+RU| PARAMOUNT COMEDY HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300905
+RU| РУССКИЙ БЕСТСЕЛЛЕР,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300933
+RU| ХИТ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132510
+RU| A1,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132398
+RU| AMC,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132402
+RU| AMEDIA,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132403
+RU| AMEDIA 2,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132404
+RU| AMEDIA HIT,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132405
+RU| AMEDIA PREMIUM HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132408
+RU| AMEDIA PREMIUM,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132407
+RU| НОСТАЛЬГИЯ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132616
+RU| БОБЕР ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300721
+RU| ДОКТОР ТВ HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300760
+RU| КТО ЕСТЬ КТО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300815
+RU| BOLLYWOOD HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132423
+RU| BOLLYWOOD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132422
+RU| BCU ULTRA 4K,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148898
+RU| BCU VHS FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148897
+RU| BCU PREMIER 1 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148906
+RU| BCU PREMIER 2 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148905
+RU| BCU PREMIER 3 FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148904
+RU| BCU MARVEL FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148903
+RU| BCU ACTION FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148913
+RU| BCU CINEMA FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148912
+RU| BCU CINEMA PLUS FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148911
+RU| BCU COMEDY FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148910
+RU| BCU FANTASTIC FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148909
+RU| BCU KIDS+ FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148908
+RU| BCU KINORATING FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148907
+RU| BCU MULTSERIAL FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148902
+RU| BCU ROMANTIC FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148901
+RU| BCU RUSSIAN FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148900
+RU| PARAMOUNT CHANNEL HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148932
+RU| PARAMOUNT CHANNEL,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132639
+RU| AMEDIA HOME OF HBO 1 HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300711
+RU| CBS REALITY,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132433
+RU| A HOME OF HBO 2 HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300702
+RU| ТВ3,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132746
+
+RU DOCUMENTAIRE,#genre#
+##### RU DOCUMENTAIRE #####,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1307386
+RU| ANIMAL PLANET,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132414
+RU| ANIMAL PLANET HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132410
+RU| ANIMAL FAMILY HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132413
+RU| DISCOVERY CHANNEL,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132463
+RU| DISCOVERY CHANNEL HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132464
+RU| DISCOVERY SCIENCE,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132465
+RU| DISCOVERY SCIENCE HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132451
+RU| DISCOVERY SHOWCASE HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132452
+RU| DISCOVERY DTX,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300743
+RU| DISCOVERY ID XTRA HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300744
+RU| ID INVESTIGATION DISCOVERY,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132516
+RU| ДИКАЯ ОХОТА HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132461
+RU| ДИКАЯ РЫБАЛКА HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132462
+RU| ОХОТА И РЫБАЛКА ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132636
+RU| ОХОТНИК И РЫБОЛОВ HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132637
+RU| ЕДА HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132479
+RU| ГЛАЗАМИ ТУРИСТА ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132504
+RU| GLAZELLA HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132505
+RU| ИСТОРИЯ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132513
+RU| ИСТОРИЯ HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132509
+RU| ИСТОРИЯ 2 HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/898806
+RU| HOLLYWOOD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132514
+RU| ICONCERTS,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132804
+RU| ICONCERTS,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/301029
+RU| ID XTRA,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132517
+RU| ИЛЛЮЗИОН ПЛЮС ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132518
+RU| ЖИВИ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132523
+RU| КРИК ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132546
+RU| КУХНЯ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132548
+RU| КУХНЯ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132549
+RU| NAT GEO WILD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132610
+RU| NAT GEO WILD HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132626
+RU| NATIONAL GEOGRAPHIC,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132611
+RU| NATIONAL GEOGRAPHIC HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132627
+RU| VIASAT NATURE,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132779
+RU| VIASAT NATURE/HISTORY HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148928
+RU| НАУКА 2.0,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132628
+RU| НСТ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132618
+RU| ОРУЖИЕ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132633
+RU| ПРАВО,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132650
+RU| TRAVEL,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132745
+RU| TRAVEL HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132762
+RU| TRAVEL ADVENTURE,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132761
+RU| TRAVEL+ADVENTURE HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132763
+RU| ЗАГОРОДНАЯ ЖИЗНЬ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132798
+RU| ЗАГОРОДНАЯ ЖИЗНЬ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132793
+RU| ЗАГОРОДНАЯ ЖИЗНЬ HD INT,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/301025
+RU| ZAGORODNIY,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/301024
+RU| VIASAT EXPLORE,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132772
+RU| VIASAT EXPLORE HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/301004
+RU| VIASAT HISTORY,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132775
+RU| VIASAT HISTORY HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132776
+RU| ЗООПАРК ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132796
+RU| 24 TECHNO,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300696
+RU| ДОМАШНИЕ ЖИВОТНЫЕ ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300749
+RU| FOOD NETWORK,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300777
+RU| FOOD NETWORK,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148934
+RU| LUXURI WORLD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300831
+RU| ПЕРВЫЙ АВТОМОБИЛЬНЫЙ УКР,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300912
+RU| ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300909
+RU| RETRO TV,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300920
+RU| SUPER,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/300958
+RU| USADBA TV,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/301000
+RU| ДИАЛОГИ О РЫБАЛКЕ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148935
+RU| MUSEUM FHD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148933
+RU| ВОПРОСЫ И ОТВЕТЫ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/301016
+RU| МОЯ ПЛАНЕТА ТВ,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1148914
