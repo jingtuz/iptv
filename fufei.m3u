@@ -1,58 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/FINLAND.png" group-title="FINLAND SPORT HD & HEVC",##### SPORTS #####
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444272
-#EXTINF:-1 tvg-id="CMoreSport1.fi" tvg-name="FI| C MORE SPORT 1" tvg-logo="http://logo.protv.cc/picons/logos/cmoresport1.png" group-title="FINLAND",FI| C MORE SPORT 1
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154612
-#EXTINF:-1 tvg-id="CMoreSport1.fi" tvg-name="FIN| C MORE SPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/cmoresport1hd.png" group-title="FINLAND SPORT HD & HEVC",FIN| C MORE SPORT 1 HD
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444250
-#EXTINF:-1 tvg-id="CMoreSport1.fi" tvg-name="FI| C MORE SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/cmoresport1hd.png" group-title="FINLAND",FI| C MORE SPORT 1 FHD
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154613
-#EXTINF:-1 tvg-id="CMoreSport1.fi" tvg-name="FIN| C MORE SPORT 1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/cmoresport1hd.png" group-title="FINLAND SPORT HD & HEVC",FIN| C MORE SPORT 1 HEVC
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444249
-#EXTINF:-1 tvg-id="CMoreSport2.fi" tvg-name="FI| C MORE SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/C-MORE-SPORT-2-HD.png" group-title="FINLAND",FI| C MORE SPORT 2 FHD
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154614
-#EXTINF:-1 tvg-id="CMoreSport2.fi" tvg-name="FIN| C MORE SPORT 2 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/cmoresport2hd.png" group-title="FINLAND SPORT HD & HEVC",FIN| C MORE SPORT 2 HEVC
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444248
-#EXTINF:-1 tvg-id="" tvg-name="FI| EUROSPORT 1 FHD [MULTI-AUDIO]" tvg-logo="http://logo.protv.cc/picons/logos/logos/eurosport1.png" group-title="FINLAND",FI| EUROSPORT 1 FHD [MULTI-AUDIO]
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154615
-#EXTINF:-1 tvg-id="Eurosport2.fi" tvg-name="FIN| EUROSPORT 2 [MULTI-AUDIO]" tvg-logo="http://logo.protv.cc/picons/logos/logos/eurosport2.png" group-title="FINLAND SPORT HD & HEVC",FIN| EUROSPORT 2 [MULTI-AUDIO]
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444246
-#EXTINF:-1 tvg-id="" tvg-name="FIN| GINX ESPORTS" tvg-logo="http://logo.protv.cc/picons/logos/GINX-ESPORTS.png" group-title="FINLAND SPORT HD & HEVC",FIN| GINX ESPORTS
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444219
-#EXTINF:-1 tvg-id="" tvg-name="FIN| V SPORT 1 HEVC [MULTI-AUDIO]" tvg-logo="http://logo.protv.cc/picons/logos/V-SPORT-1-HD.png" group-title="FINLAND SPORT HD & HEVC",FIN| V SPORT 1 HEVC [MULTI-AUDIO]
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444242
-#EXTINF:-1 tvg-id="" tvg-name="FIN| V SPORT HOCKEY HEVC [MULTI-AUDIO]" tvg-logo="http://logo.protv.cc/picons/logos/V-SPORT-HOCKEY.png" group-title="FINLAND SPORT HD & HEVC",FIN| V SPORT HOCKEY HEVC [MULTI-AUDIO]
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444240
-#EXTINF:-1 tvg-id="" tvg-name="FIN| V SPORT JALKAPALLO" tvg-logo="http://logo.protv.cc/picons/logos/V-SPORT-JALKAPALLO.jpeg" group-title="FINLAND SPORT HD & HEVC",FIN| V SPORT JALKAPALLO
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444244
-#EXTINF:-1 tvg-id="" tvg-name="FIN| V SPORT JÄÄKIEKKO" tvg-logo="http://logo.protv.cc/picons/logos/V-SPORT-JÄÄKIEKKO.jpeg" group-title="FINLAND SPORT HD & HEVC",FIN| V SPORT JÄÄKIEKKO
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444245
-#EXTINF:-1 tvg-id="" tvg-name="FIN| V SPORT PREMIUM" tvg-logo="http://logo.protv.cc/picons/logos/V-SPORT-PREMIUM.jpeg" group-title="FINLAND SPORT HD & HEVC",FIN| V SPORT PREMIUM
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444241
-#EXTINF:-1 tvg-id="" tvg-name="FIN| V SPORT URHEILU" tvg-logo="http://logo.protv.cc/picons/logos/V-SPORT-URHEILU.jpeg" group-title="FINLAND SPORT HD & HEVC",FIN| V SPORT URHEILU
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/444243
-#EXTINF:-1 tvg-id="ViasatGolf.fi" tvg-name="FI| VIASAT GOLF HD" tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-GOLF.png" group-title="FINLAND",FI| VIASAT GOLF HD
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154623
-#EXTINF:-1 tvg-id="ViasatHockey.fi" tvg-name="FI| VIASAT HOCKEY FHD [MULTI-AUDIO]" tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-HOCKY-HD.png" group-title="FINLAND",FI| VIASAT HOCKEY FHD [MULTI-AUDIO]
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154622
-#EXTINF:-1 tvg-id="ViasatSport.fi" tvg-name="FI| VIASAT SPORT FHD [MULTI-AUDIO]" tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-SPORT-HD.jpeg" group-title="FINLAND",FI| VIASAT SPORT FHD [MULTI-AUDIO]
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154620
-#EXTINF:-1 tvg-id="ViasatSportPremium.fi" tvg-name="FI| VIASAT SPORT PREMIUM" tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-SPORT-PREMIUM-HD.png" group-title="FINLAND",FI| VIASAT SPORT PREMIUM
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154621
-#EXTINF:-1 tvg-id="" tvg-name="FIN| VIASAT SPORT + SUOMI HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIASAT-SPORT-SUOMI.png" group-title="FINLAND HD & HEVC",FIN| VIASAT SPORT + SUOMI HD
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1448688
-#EXTINF:-1 tvg-id="" tvg-name="FIN| VIASAT SPORT 1 SUOMI" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/Vsport1suomi.png" group-title="FINLAND HD & HEVC",FIN| VIASAT SPORT 1 SUOMI
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1142819
-#EXTINF:-1 tvg-id="" tvg-name="FIN| VIASAT SPORT 2 SUOMI HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/VIASAT-SPORT-2-SUOMI.png" group-title="FINLAND HD & HEVC",FIN| VIASAT SPORT 2 SUOMI HD
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/1448687
-#EXTINF:-1 tvg-id="" tvg-name="FIN| VIASAT SPORT ULTRA" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/36.png" group-title="FINLAND SPORT HD & HEVC",FIN| VIASAT SPORT ULTRA
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/773199
-#EXTINF:-1 tvg-id="" tvg-name="FIN| VIASAT SPORT ULTRA HD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/36.png" group-title="FINLAND SPORT HD & HEVC",FIN| VIASAT SPORT ULTRA HD
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/773198
-#EXTINF:-1 tvg-id="ViasatSport.fi" tvg-name="FI| VIASAT SPORT ULTRA FHD [MULTI-AUDIO]" tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-SPORT-ULTRA-HD.png" group-title="FINLAND",FI| VIASAT SPORT ULTRA FHD [MULTI-AUDIO]
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154624
-#EXTINF:-1 tvg-id="" tvg-name="FIN| VIASAT SPORT ULTRA 4K+" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/36.png" group-title="FINLAND SPORT HD & HEVC",FIN| VIASAT SPORT ULTRA 4K+
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/466358
-#EXTINF:-1 tvg-id="ViasatSport.fi" tvg-name="FI| VIASAT SPORT ULTRA 4K+ [ONLY ON 4K DEVICES]" tvg-logo="http://logo.protv.cc/picons/logos/logos/VIASAT-SPORT-ULTRA.png" group-title="FINLAND SPORT HD & HEVC",FI| VIASAT SPORT ULTRA 4K+ [ONLY ON 4K DEVICES]
-http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/154625
-
+#EXTINF:-1 tvg-id="" tvg-name="TWN| CTS (NA)" tvg-logo="http://logo.protv.cc/picons/logos/CTS.jpg" group-title="TAIWAN",TWN| CTS (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156391
+#EXTINF:-1 tvg-id="" tvg-name="TWN| ET CHINA (NA)" tvg-logo="http://logo.protv.cc/picons/logos/ET-TV.jpg" group-title="TAIWAN",TWN| ET CHINA (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156393
+#EXTINF:-1 tvg-id="" tvg-name="TWN| ET DRAMA (NA)" tvg-logo="http://logo.protv.cc/picons/logos/DRAMA-CH.jpeg" group-title="TAIWAN",TWN| ET DRAMA (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156395
+#EXTINF:-1 tvg-id="" tvg-name="TWN| ET FINACIAL NEWS (NA)" tvg-logo="http://logo.protv.cc/picons/logos/ET-FINACIAL-NEWS.jpg" group-title="TAIWAN",TWN| ET FINACIAL NEWS (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156396
+#EXTINF:-1 tvg-id="" tvg-name="TWN| ET GLOBAL (NA)" tvg-logo="http://logo.protv.cc/picons/logos/GLOBAL--.jpg" group-title="TAIWAN",TWN| ET GLOBAL (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156394
+#EXTINF:-1 tvg-id="" tvg-name="TWN| ET NEWS (NA)" tvg-logo="http://logo.protv.cc/picons/logos/ET-NEWS.jpg" group-title="TAIWAN",TWN| ET NEWS (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156397
+#EXTINF:-1 tvg-id="" tvg-name="TWN| FORMOSA TV (NA)" tvg-logo="http://logo.protv.cc/picons/logos/FORMOSA-TV.png" group-title="TAIWAN",TWN| FORMOSA TV (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156389
+#EXTINF:-1 tvg-id="" tvg-name="TWN| ICITI NA)" tvg-logo="http://logo.protv.cc/picons/logos/ICITI-TV.jpeg" group-title="TAIWAN",TWN| ICITI NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156401
+#EXTINF:-1 tvg-id="" tvg-name="TWN| SETI (NA)" tvg-logo="http://logo.protv.cc/picons/logos/SETI.png" group-title="TAIWAN",TWN| SETI (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156390
+#EXTINF:-1 tvg-id="" tvg-name="TWN| SKYLINK TELEVISION 2 (NA)" tvg-logo="http://logo.protv.cc/picons/logos/SKYLINK-TELEVISION-2.png" group-title="TAIWAN",TWN| SKYLINK TELEVISION 2 (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156400
+#EXTINF:-1 tvg-id="" tvg-name="TWN| SKYLINK TELEVISION (NA)" tvg-logo="http://logo.protv.cc/picons/logos/SKYLINK-TELEVISION.jpg" group-title="TAIWAN",TWN| SKYLINK TELEVISION (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156399
+#EXTINF:-1 tvg-id="" tvg-name="TWN| TTV (NA)" tvg-logo="http://logo.protv.cc/picons/logos/TTV-TAIWAN.jpg" group-title="TAIWAN",TWN| TTV (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156392
+#EXTINF:-1 tvg-id="" tvg-name="TWN| TVBS NA)" tvg-logo="http://logo.protv.cc/picons/logos/TVBS.png" group-title="TAIWAN",TWN| TVBS NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156402
+#EXTINF:-1 tvg-id="" tvg-name="TWN| USTV (NA)" tvg-logo="http://logo.protv.cc/picons/logos/USTV-NOW.png" group-title="TAIWAN",TWN| USTV (NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156398
+#EXTINF:-1 tvg-id="" tvg-name="TWN| YOYO TV NA)" tvg-logo="http://logo.protv.cc/picons/logos/YOYO-TV.jpg" group-title="TAIWAN",TWN| YOYO TV NA)
+http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/156403
