@@ -507,6 +507,7 @@ RU| SONY SCI-FI,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132720
 RU| SONY TB,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132705
 RU| SONY TURBO,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132706
 RU| VIP COMEDY HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132785
+RU| VIP MEGAHIT HD,http://89.45.13.220:8080/play/live.php?mac=00:1A:79:10:DC:75&stream=727140&extension=ts&play_token=qguoi14xlF
 RU| VIP MEGAHIT HD,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132786
 RU| VIP PREMIERE,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132787
 RU| VIP SERIAL,http://tr.simotvgold.com:80/57f85203e9/85d9faf1be/132788
